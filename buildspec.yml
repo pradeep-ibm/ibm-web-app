@@ -12,4 +12,4 @@ artifacts:
   files:
     - ibm-web-app.war
     - .ebextensions/**/*
-  base-directory: 'target/ibm-web-app.war'
+  base-directory: 'ibm-web-app/target/ibm-web-app'
