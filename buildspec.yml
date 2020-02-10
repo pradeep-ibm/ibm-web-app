@@ -12,3 +12,4 @@ artifacts:
   files:
     - ibm-web-app.war
     - .ebextensions/**/*
+    
