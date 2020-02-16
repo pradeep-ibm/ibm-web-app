@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello cool guy from Sony!</h2>
+<h2>sony.com release v1.0</h2>
 </body>
 </html>
